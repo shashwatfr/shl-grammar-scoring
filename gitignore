@@ -1,0 +1,17 @@
+# extracted features, audio and competition data stay out of the repo
+cache/
+*.npy
+*.npz
+*.wav
+Dataset_Final/
+train.csv
+test.csv
+sample_submission.csv
+
+# tokens
+.env
+kaggle.json
+*.key
+
+.ipynb_checkpoints/
+__pycache__/
